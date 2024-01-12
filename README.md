@@ -2,8 +2,6 @@
 
 # techno_plus_food_app_animations
 
-Animated 3D Card
-
 # Example
 
 <p align='center'>
