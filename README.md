@@ -5,5 +5,5 @@
 # Example
 
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/Obada2020/techno_plus_food_app_animations/main/assets/example.mp4'/>
+    <img src='https://raw.githubusercontent.com/Obada2020/techno_plus_food_app_animations/main/assets/example.gif'/>
 </p>
