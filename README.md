@@ -1,4 +1,4 @@
-# **Need a Expert Flutter developer? <a href="https://www.linkedin.com/in/alhalabi-obada-6b2a89290/" target="_blank">I'm available</a>!**
+# **Need an Expert Flutter developer? <a href="https://www.linkedin.com/in/alhalabi-obada-6b2a89290/" target="_blank">I'm available</a>!**
 
 # techno_plus_food_app_animations
 
